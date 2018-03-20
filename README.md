@@ -92,3 +92,5 @@ The coordinates were sent one by one, only after the movement of the rover was a
 As the spotter received the coordinate, it moved itself to cover an area of one cell. As the spotter moved, it sent an acknowledgement to the laptop.
 The laptop further sent a signal to the rover to move. The rover detected the laser and moved accordingly, sending an acknowledgement once done.
 When both the spotter and rover were one cell forward, the last acknowledgement sent by the rover signalled the laptop to send the next coordinates to the spotter.
+
+- Developed by Kanksha Zaveri, Romit Shah, Shreya Naik and Niti Shah
